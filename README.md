@@ -1,12 +1,25 @@
 # ui
 
+## 开发
+### 本地启动
+* `npm run tauri dev`
+
 ## 其他
+
+### 从 0 编写一个框架模板开发步骤
+* 路径别名设置
+* 设定路由
+* 设定 layout
+* 设定
 
 ## 参考
 * naiveui https://www.naiveui.com/zh-CN
 * npm 镜像 https://zhuanlan.zhihu.com/p/166175735
 * 设置 volar https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669
 * 带你快速构建一个vite+vue3.0+ts+naive-ui的项目 https://juejin.cn/post/7046208662255173645
+
+## 解决问题参考
+* VUE3+Typescript 引用process提示错误 https://www.cnblogs.com/zsg88/p/15700520.html
 
 ## Vue 3 + Typescript + Vite
 
