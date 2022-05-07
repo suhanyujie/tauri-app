@@ -17,6 +17,7 @@
 * npm 镜像 https://zhuanlan.zhihu.com/p/166175735
 * 设置 volar https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669
 * 带你快速构建一个vite+vue3.0+ts+naive-ui的项目 https://juejin.cn/post/7046208662255173645
+* 构建一个自己的Vue组件库 https://www.bilibili.com/video/BV1VY4y1H7g9
 
 ## 解决问题参考
 * VUE3+Typescript 引用process提示错误 https://www.cnblogs.com/zsg88/p/15700520.html
